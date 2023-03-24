@@ -7,3 +7,5 @@ resource "google_artifact_registry_repository" "my-repo" {
 
 # No hackathon, vamos usar o Terraform Cloud para gerenciar o estado do Terraform.
 # Teremos uma configuração adicional de banco de dados da aplicação
+# https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/sql_database
+
